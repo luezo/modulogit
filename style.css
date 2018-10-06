@@ -2,3 +2,7 @@ body {
 
 	background-color: green;
 }
+.video {
+
+	flex: 1;
+}
